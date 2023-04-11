@@ -1,0 +1,31 @@
+.format1 {
+    font-size: 40px;
+    font-family:copperplate;
+    width:400px;
+    height:320px;
+    background-color:#9fa2b3;
+    border-style:double;
+    border-color:#696c80;
+    color:#d1d4e8;
+    border-width:10px;
+    border-radius:20px;
+    line-height:100px;
+    text-align:center;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+body{
+    display: block;
+    background-color: #e1e3f0;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    margin-top: 7vh;
+}
+.class2{
+    font-size: 8vh;
+}
+.class1{
+    margin-top: 5vh;
+}
